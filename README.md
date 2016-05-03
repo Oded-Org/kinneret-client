@@ -1,3 +1,6 @@
+[![Circle CI](https://circleci.com/gh/Oded-Org/kinneret-client.svg?style=svg)](https://circleci.com/gh/Oded-Org/kinneret-client)
+
+These are relevant for father project:
 [![Circle CI](https://circleci.com/gh/boris-org/kinneret-client.svg?style=svg)](https://circleci.com/gh/boris-org/kinneret-client)
 [![Travis CI](https://travis-ci.org/boris-org/kinneret-client.svg?branch=master)](https://travis-ci.org/boris-org/kinneret-client)
 [![codecov.io](https://codecov.io/gh/boris-org/kinneret-client/coverage.svg?branch=master)](https://codecov.io/github/boris-org/kinneret-client?branch=master)
